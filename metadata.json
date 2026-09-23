@@ -1,0 +1,6 @@
+{
+  "name": "BakiKhata - ডিজিটাল বাকি খাতা",
+  "description": "Modern, Bengali-friendly Digital Baki Khata and Customer Ledger App for businesses, shops, and individuals in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
